@@ -1,4 +1,3 @@
-import com.coffee.pojo.Student;
 import com.coffee.service.StudentService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
