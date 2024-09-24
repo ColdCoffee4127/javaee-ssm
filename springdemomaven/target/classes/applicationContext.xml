@@ -2,14 +2,9 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean class="com.coffee.pojo.Student"
-          id="stu" >
-        <property name="name" value="lisi"/>
-        <property name="age" value="18"/>
-    </bean>
+
     <bean class="com.coffee.dao.impl.StuDaoImpl" id="studentDao"></bean>
     <bean class="com.coffee.service.impl.StudentServiceImpl" id="studentService">
         <property name="stuDao" ref="studentDao"></property>
     </bean>
-
 </beans>

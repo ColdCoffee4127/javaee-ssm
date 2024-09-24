@@ -4,19 +4,17 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/mavendemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springdemoaop/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven02/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven03/pom.xml" />
-        <option value="$PROJECT_DIR$/autobean01/pom.xml" />
-        <option value="$PROJECT_DIR$/autobean02/pom.xml" />
-        <option value="$PROJECT_DIR$/javaeedemo01/springdemomaven04/pom.xml" />
+        <option value="$PROJECT_DIR$/springdemomaven04/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven05/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/mavendemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springdemomaven04/pom.xml" />
       </set>
     </option>
   </component>
