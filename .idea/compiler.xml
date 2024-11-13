@@ -2,24 +2,47 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springdemomaven05" />
-        <module name="springdemo02-maven (1) (com.dingli)" />
+        <module name="servlet03.1" />
+        <module name="jsp" />
+        <module name="mybatisdemo" />
+        <module name="mybatisdemo04" />
         <module name="springdemomaven" />
-        <module name="springdemomaven03" />
-        <module name="springdemoaop" />
+        <module name="springmvc03" />
+        <module name="mybatisdemo02" />
+        <module name="mybatisdemo03" />
         <module name="autobean01" />
         <module name="autobean02" />
+        <module name="servlet03" />
+        <module name="laf" />
+        <module name="servlet04" />
+        <module name="test2" />
+        <module name="springmvc01" />
+        <module name="springmvc02" />
+        <module name="springdemo02-maven (1) (com.dingli)" />
+        <module name="springdemomaven03" />
+        <module name="springdemoaop" />
+        <module name="javaweb01" />
+        <module name="servlet01" />
+        <module name="servlet02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mavendemo" target="1.8" />
-      <module name="springdemo02-maven" target="1.8" />
-      <module name="springdemomaven02" target="1.8" />
-      <module name="springdemomaven04" target="1.8" />
+      <module name="mogo" target="1.8" />
+      <module name="mongo" target="1.8" />
+      <module name="MongoDB" target="8" />
+      <module name="test" target="1.8" />
+      <module name="untitled1" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MongoDB" options="-parameters" />
+    </option>
   </component>
 </project>

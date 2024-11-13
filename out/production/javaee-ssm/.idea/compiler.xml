@@ -6,16 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springdemomaven02" />
+        <module name="springdemomaven05" />
+        <module name="springdemo02-maven (1) (com.dingli)" />
         <module name="springdemomaven" />
         <module name="springdemomaven03" />
-        <module name="springdemomaven05" />
+        <module name="springdemoaop" />
+        <module name="javaweb01" />
         <module name="autobean01" />
+        <module name="servlet01" />
         <module name="autobean02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="javaweb01" target="1.8" />
       <module name="mavendemo" target="1.8" />
+      <module name="servelt01" target="1.8" />
+      <module name="springdemo02-maven" target="1.8" />
+      <module name="springdemomaven02" target="1.8" />
       <module name="springdemomaven04" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -10,12 +10,40 @@
         <option value="$PROJECT_DIR$/springdemomaven03/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven04/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven05/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb01/pom.xml" />
+        <option value="$PROJECT_DIR$/servelt01/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet01/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet02/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet03/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet03.1/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet04/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc01/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc02/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc03/pom.xml" />
+        <option value="$PROJECT_DIR$/test2/pom.xml" />
+        <option value="$PROJECT_DIR$/springjson/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisdemo02/pom.xml" />
+        <option value="$PROJECT_DIR$/laf/pom.xml" />
+        <option value="$PROJECT_DIR$/MongoDB/pom.xml" />
+        <option value="$PROJECT_DIR$/mogo/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisdemo03/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisdemo04/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/servelt01/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven02/pom.xml" />
         <option value="$PROJECT_DIR$/springdemomaven04/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
       </set>
     </option>
   </component>

@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/autobean02/autobean02.iml" filepath="$PROJECT_DIR$/autobean02/autobean02.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaee-ssm.iml" filepath="$PROJECT_DIR$/javaee-ssm.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaeedemo01/javaeedemo01.iml" filepath="$PROJECT_DIR$/javaeedemo01/javaeedemo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laf.iml" filepath="$PROJECT_DIR$/laf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/src/main/main.iml" filepath="$PROJECT_DIR$/mybatis/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/src/test/test3.iml" filepath="$PROJECT_DIR$/mybatis/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

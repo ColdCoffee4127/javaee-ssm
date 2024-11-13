@@ -17,6 +17,7 @@ public class StuServiceImpl implements StuService {
     public void save() {
         stuDao.saveStu();
     }
+
     @PostConstruct
     public void init1() {
         System.out.println("正在创建");

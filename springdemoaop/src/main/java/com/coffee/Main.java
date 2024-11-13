@@ -9,5 +9,8 @@ public class Main {
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         StuDao stuDao = (StuDao) context.getBean("stuDao");
         stuDao.insert();
+        stuDao.delete();
+        stuDao.update();
+        stuDao.select();
     }
 }

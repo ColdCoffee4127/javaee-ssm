@@ -1,10 +1,7 @@
 package com.coffee.aspect;
 
-import org.aspectj.lang.JoinPoint;
-import org.aspectj.lang.annotation.After;
-import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
-import org.aspectj.lang.annotation.Pointcut;
+import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.*;
 import org.springframework.stereotype.Component;
 
 @Aspect
@@ -21,5 +18,19 @@ public class LogAspect {
     @After("pt()")
     public void after() {
         System.out.println("after");
+    }
+    @Around("pt()")
+    public void around(ProceedingJoinPoint joinPoint) throws Throwable {
+        System.out.println("before------");
+        Object o = joinPoint.proceed();
+        System.out.println("after------");
+    }
+    @AfterReturning("pt()")
+    public void afterReturning() {
+        System.out.println("afterReturning");
+    }
+    @AfterThrowing("pt()")
+    public void afterThrowing() {
+        System.out.println("afterThrowing");
     }
 }

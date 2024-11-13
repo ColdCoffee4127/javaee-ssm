@@ -1,7 +1,6 @@
 package com.coffee.service.impl;
 
 import com.coffee.dao.StuDao;
-import com.coffee.dao.impl.StuDaoImpl;
 import com.coffee.service.StuService;
 
 public class StuServiceImpl implements StuService {

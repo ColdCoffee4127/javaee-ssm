@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.coffee.mapper.StudentMapper">
+<!--    <resultMap id="" type=""></resultMap>-->
+    <select id="select" resultType="student" parameterType="student">
+        select * from student where stuName like concat('%',#{stuName},'%')
+        and stuBirthDate>#{stuBirthDate}
+    </select>
+
+    <insert id="insert" parameterType="student">
+        insert into student(stuName,stuPhone,stuBirthDate)
+        values(#{stuName},#{stuPhone},#{stuBirthDate})
+    </insert>
+
+    <update id="update" parameterType="student">
+        update student
+        <trim prefix="set" suffixOverrides=",">
+            <if test="stuName!=null and stuName!=''">
+                stuName = #{stuName},
+            </if>
+            <if test="stuPhone!=null and stuPhone!=''">
+                stuPhone = #{stuPhone},
+            </if>
+            <if test="stuBirthDate!=null and stuBirthDate!=''">
+                stuBirthDate = #{stuBirthDate},
+            </if>
+        </trim>
+        where id=#{id}
+    </update>
+
+    <delete id="delete" parameterType="java.util.Arrays">
+        delete from student where id in
+        <foreach collection="array" item="id" separator="," open="(" close=")">
+            #{id}
+        </foreach>
+    </delete>
+</mapper>
+

@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MongoDB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MongoDB/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/autobean01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/autobean01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/autobean02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/autobean02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/laf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mavendemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mavendemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mogo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mogo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisdemo04/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servelt01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servelt01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet03.1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet03.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet04/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdemoaop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdemoaop/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdemomaven/resources" charset="UTF-8" />
@@ -20,5 +56,19 @@
     <file url="file://$PROJECT_DIR$/springdemomaven04/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdemomaven05/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdemomaven05/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springjson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springjson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled1/src/main/resources" charset="UTF-8" />
   </component>
 </project>
